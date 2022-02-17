@@ -1,6 +1,6 @@
 /*
                                     Project Name: Scientific Calculator.
-                                    Contributors: Manasij Haldar, Ayush Bajaj, Ujjwal
+                                    Created by: Manasij Haldar
                                     B.E., 2st Year, AIT_CSE_AIML5_A, Chandigarh University.
                                     Language used: C++
 */
